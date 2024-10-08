@@ -8,7 +8,6 @@
 | Deep learning is one of the many applications of artificial neural networks. | Neural networks make great tools for pattern recognition, clustering, prediction and analysis, control and optimization, machine translation, etc. |
 
 
-# التعلم العميق VS الشبكة العصبية
 
 | **التعلم العميق** | **الشبكة العصبية** |
 |------------------|-------------------|
