@@ -1,7 +1,16 @@
 # Machine Learning
 
-| **Category**            | **Sub-Category** | **Algorithms**                                                             |
-|-------------------------|------------------|----------------------------------------------------------------------------|
-| **Supervised Learning**  | Classification   | Support Vector Machines, Discriminant Analysis, Naive Bayes, Nearest Neighbor |
-|                         | Regression       | Linear Regression, GLM, SVR, GPR, Ensemble Methods, Decision Trees, Neural Networks |
-| **Unsupervised Learning**| Clustering       | K-Means, K-Medoids, Fuzzy C-Means, Hierarchical, Gaussian Mixture, Neural Networks, Hidden Markov Model |
+| **Supervised Learning** | **Unsupervised Learning** |
+|-------------------------|---------------------------|
+| **Classification:**      | **Clustering:**           |
+| - Support Vector Machines | - K-Means, K-Medoids, Fuzzy C-Means |
+| - Discriminant Analysis  | - Hierarchical            |
+| - Naive Bayes            | - Gaussian Mixture        |
+| - Nearest Neighbor       | - Neural Networks         |
+|                         | - Hidden Markov Model     |
+| **Regression:**          |                           |
+| - Linear Regression, GLM |                           |
+| - SVR, GPR               |                           |
+| - Ensemble Methods       |                           |
+| - Decision Trees         |                           |
+| - Neural Networks        |                           |
