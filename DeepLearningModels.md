@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/S7orx/Notes-/blob/main/DeepLearningModels.png" width="300"/>
+  <img src="https://github.com/S7orx/Notes-/blob/main/DeepLearningModels.png"
 </p>
 
 This image illustrates a taxonomy of deep learning models, categorized into three main types: **Generative (Unsupervised)**, **Discriminative (Supervised)**, and **Hybrid**.
