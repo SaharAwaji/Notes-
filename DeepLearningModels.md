@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://github.com/SaharAwaji/personal-website/blob/main/logo%20of%20.png" width="300"/>
+</p>
 
 
 This image illustrates a taxonomy of deep learning models, categorized into three main types: **Generative (Unsupervised)**, **Discriminative (Supervised)**, and **Hybrid**.
