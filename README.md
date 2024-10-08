@@ -7,7 +7,7 @@
 | Deep learning architecture is based on artificial neural networks. | Neural network consists of three layers: input layer, output layer, and hidden layer. |
 | Deep learning is one of the many applications of artificial neural networks. | Neural networks make great tools for pattern recognition, clustering, prediction and analysis, control and optimization, machine translation, etc. |
 
-
+# الفرق بين التعلم العميق والشبكات العصبية
 
 | **التعلم العميق** | **الشبكة العصبية** |
 |------------------|-------------------|
